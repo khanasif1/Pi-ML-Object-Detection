@@ -1,0 +1,1 @@
+scp -r  C:\_dev\_github\Pi-ML-Object-Detection\*  pi@192.168.1.110: /home/pi/py/proj/objectsDetection

@@ -1,4 +1,6 @@
 #https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn
+# Custom prediction : https://www.youtube.com/watch?v=a1BmKSYZUi8
+#https://teachablemachine.withgoogle.com/train/image
 from operator import truediv
 import cv2
 import numpy as np
